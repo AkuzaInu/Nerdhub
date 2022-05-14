@@ -1,0 +1,22 @@
+{
+	"Token": "OTc0MDgxMjYyNjUyMzcwOTQ0.GDOlAd.QoSZz73ELIrOnwB8gpO1LllQFBfk0Rn_B38J90",
+	"prefix": "..",
+
+	"colors": {
+		"base": "F7971E",
+		"true": "72c476",
+		"false": "c47272",
+		"logs": "522020"
+	},
+
+	"logChannelId": "974074597295128646",
+
+	"logPreferences": {
+		"Cleared messages": false,
+		"Kicked member": true,
+		"Locked channel": true,
+		"Unlocked channel": true,
+		"Banned member": true,
+		"Slowmode": true
+	}
+}
