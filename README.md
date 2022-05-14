@@ -1,0 +1,2 @@
+# Nerdhub
+Moderation discord bot
